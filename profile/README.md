@@ -18,7 +18,7 @@ This project explores and compares two AWS-based architectural approaches: **Mon
 |---|---|
 | **[Sensor Simulator](https://github.com/DDAC-G24/agriguard-sensor-simulator)** | Python-based sensor simulator that generates environmental readings and transmits data to both architectures through HTTP REST APIs. |
 | **Monolithic Architecture** | AWS-hosted application using ASP.NET Core Web API, Amazon EC2 and Amazon RDS MySQL for sensor data ingestion, processing and management. |
-| **Event-Driven Architecture** | AWS serverless application using Amazon API Gateway, AWS Lambda, Amazon SQS and Amazon DynamoDB for asynchronous sensor data ingestion and processing. |
+| **[Event-Driven Architecture](https://github.com/DDAC-G24/agriguard-event-driven)** | AWS serverless application using Amazon API Gateway, AWS Lambda, Amazon SQS and Amazon DynamoDB for asynchronous sensor data ingestion and processing. |
 
 ## Project Information
 **Module**: Designing and Developing Applications on the Cloud (DDAC) </br>
@@ -28,6 +28,6 @@ This project explores and compares two AWS-based architectural approaches: **Mon
 
 <div align="center">
 
-*Developed as an academic project to explore cloud application architecture, scalability and event-driven processing using AWS.*
+*Developed as an academic project to explore cloud application architecture, scalability and event-driven processing using AWS. Repositories are currently private and will be made publicly accessible upon project completion.*
 
 </div>
